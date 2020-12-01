@@ -1,0 +1,11 @@
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+accept-language: en-US,en;q=0.5
+cookie: _ga=GA1.2.2009938484.1581090450
+cookie: _gid=GA1.2.1121172307.1581090450
+cookie: accepted_local_switcher=1
+cookie: _gat=1
+cookie: _gat_global=1
+upgrade-insecure-requests: 1
+cache-control: max-age=0
+te: trailers

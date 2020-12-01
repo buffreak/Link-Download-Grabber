@@ -1,0 +1,61 @@
+<div class="hts-toggle  package-toggle dl-cat-toggle"  >
+    			<div class="hts-toggle__title">Other</div>
+    			<div class="hts-toggle__content">
+    				<div class="hts-toggle__contentwrap">
+    					<div class='w3eden'>
+<div class='col-md-4 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class="list-group wpdm-lt-card dl-card" style="margin: 0 0 0 0">
+<div class="list-group-item killer-group-item">
+            <a class="" href="https://support.killernetworking.com/download/killer-diagnostics/"></p>
+<div class='text-center package-preview'><img class='wpdm-thumb wpdm-thumb-500x250 wpdm-thumb-184' src='https://support.killernetworking.com/wp-content/uploads/wpdm-cache/Package-KDIAG-580x290-500x250.png' alt='Killer Diagnostics' /></div>
+<p></a>
+        </div>
+<div class="list-group-item">
+<h4 style="padding: 0px;margin:0px;min-height: 80px;" id="killer-diagnostics" ><a href='https://support.killernetworking.com/download/killer-diagnostics/'>Killer Diagnostics</a></h4>
+</p></div>
+<div class="list-group-item">
+            <span class="badge">1.0.2019.0205</span> Version:
+        </div>
+<div class="list-group-item">
+            <span class="badge">February 5, 2019</span> Date:
+        </div>
+<div class="list-group-item">
+            <span class="badge">0.4 MB</span> File Size:
+        </div>
+</p></div>
+</div>
+<div class='col-md-4 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class="list-group wpdm-lt-card dl-card" style="margin: 0 0 0 0">
+<div class="list-group-item killer-group-item">
+            <a class="" href="https://support.killernetworking.com/download/killer-uninstaller/"></p>
+<div class='text-center package-preview'><img class='wpdm-thumb wpdm-thumb-500x250 wpdm-thumb-236' src='https://support.killernetworking.com/wp-content/uploads/wpdm-cache/Package-KUNINST-580x290-500x250.png' alt='Killer Uninstaller' /></div>
+<p></a>
+        </div>
+<div class="list-group-item">
+<h4 style="padding: 0px;margin:0px;min-height: 80px;" id="killer-uninstaller" ><a href='https://support.killernetworking.com/download/killer-uninstaller/'>Killer Uninstaller</a></h4>
+</p></div>
+<div class="list-group-item">
+            <span class="badge">1.0.2020.0212</span> Version:
+        </div>
+<div class="list-group-item">
+            <span class="badge">November 22, 2019</span> Date:
+        </div>
+<div class="list-group-item">
+            <span class="badge">808 KB</span> File Size:
+        </div>
+</p></div>
+</div>
+</div>
+<div style='clear:both'></div>
+<div class='text-center'>
+<ul class='pagination wpdm-pagination pagination-centered text-center'></ul>
+</div>
+<div style='clear:both'></div>
+<div style='clear:both'></div>
+</div>
+</div>
+    				</div>
+    			</div><!-- /ht-toggle-content -->
+    		</div>

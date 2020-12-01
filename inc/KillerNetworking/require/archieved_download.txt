@@ -1,0 +1,629 @@
+<div class="hts-toggle  package-toggle "  >
+    			<div class="hts-toggle__title">Archived Downloads</div>
+    			<div class="hts-toggle__content">
+    				<div class="hts-toggle__contentwrap">
+    					<h4 id="killer-software-package-uwd" >Killer Software Package UWD</h4>
+<div class='w3eden'>
+<div class=''>
+<div class='row'>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-windows-10-1803-2" ><a href='https://support.killernetworking.com/download/killer-software-package-windows-10-1803-2-1-1352/'>Killer Software Package - Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.1.1352 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  October 11, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2600, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-windows-10-1803-3" ><a href='https://support.killernetworking.com/download/killer-software-package-windows-10-1803-2-1-1334/'>Killer Software Package - Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.1.1334 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  September 10, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-windows-10-1803-4" ><a href='https://support.killernetworking.com/download/killer-software-package-windows-10-1803-2-1-1313/'>Killer Software Package - Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.1.1313 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  August 2, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-windows-10-1803-5" ><a href='https://support.killernetworking.com/download/killer-software-package-windows-10-1803-2-1-1299/'>Killer Software Package - Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.1.1299 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  July 2, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-windows-10-1803-6" ><a href='https://support.killernetworking.com/download/killer-software-package-windows-10-1803-2-1-1298/'>Killer Software Package - Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.1.1298 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  June 24, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-windows-10-1803-7" ><a href='https://support.killernetworking.com/download/killer-software-package-for-windows-10-1803-2-1-1295/'>Killer Software Package - Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.1.1295 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  June 5, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-for-windows-10-1803" ><a href='https://support.killernetworking.com/download/killer-software-package-for-windows-10-1803-2-0-1281/'>Killer Software Package - for Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.1.1281 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  May 7, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-for-windows-10-1803-2" ><a href='https://support.killernetworking.com/download/killer-software-package-for-windows-10-1803-2-0-1175/'>Killer Software Package - for Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.0.1175 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  April 5, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-for-windows-10-1803-3" ><a href='https://support.killernetworking.com/download/killer-software-package-windows-10-1803-2-0-1170/'>Killer Software Package - for Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.0.1170 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  March 12, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-for-windows-10-1803-4" ><a href='https://support.killernetworking.com/download/killer-software-package-for-windows-10-1803-2-0-1156/'>Killer Software Package - for Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.0.1159 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  February 1, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-for-windows-10-1803-5" ><a href='https://support.killernetworking.com/download/killer-software-package-for-windows-10-1803-2-0-1134/'>Killer Software Package - for Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.0.1134 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  January 8, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-for-windows-10-1803-6" ><a href='https://support.killernetworking.com/download/killer-software-package-for-windows-10-1803-1-7-1089/'>Killer Software Package - for Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  1.7.1089 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  September 21, 2018 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-for-windows-10-1803-7" ><a href='https://support.killernetworking.com/download/killer-software-package-for-windows-10-1803-1-7-1034/'>Killer Software Package - for Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  1.7.1034 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  July 11, 2018 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-for-windows-10-1803-8" ><a href='https://support.killernetworking.com/download/killer-software-package-for-windows-10-1803-1-7-1023/'>Killer Software Package - for Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  1.7.1023 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  June 15, 2018 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-windows-10-1803-8" ><a href='https://support.killernetworking.com/download/killer-software-package-windows-10-1803-2-1-1362/'>Killer Software Package - Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.1.1362 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  November 1, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-48.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-software-package-windows-10-1803-9" ><a href='https://support.killernetworking.com/download/killer-software-package-windows-10-1803-2-2-1397/'>Killer Software Package - Windows 10 1803+</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.2.1397 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  December 12, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+</div>
+<div style='clear:both'></div>
+<div class='text-center'>
+<ul class='pagination wpdm-pagination pagination-centered text-center'></ul>
+</div>
+<div style='clear:both'></div>
+<div style='clear:both'></div>
+</div>
+</div>
+<h4 id="killer-network-manager" >Killer Network Manager</h4>
+<div class='w3eden'>
+<div class=''>
+<div class='row'>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Killer E2200, Killer E2400, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-kcc-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-network-manager-suite" ><a href='https://support.killernetworking.com/download/killer-network-manager-suite/'>Killer Network Manager Suite</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  1.1.69.1774 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  April 7, 2017 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 7, Windows 8, Windows 8.1, Windows 10</span>
+</div>
+</div>
+</div>
+</div>
+<div style='clear:both'></div>
+<div class='text-center'>
+<ul class='pagination wpdm-pagination pagination-centered text-center'></ul>
+</div>
+<div style='clear:both'></div>
+<div style='clear:both'></div>
+</div>
+</div>
+<h4 id="driver-only-package" >Driver Only Package</h4>
+<div class='w3eden'>
+<div class=''>
+<div class='row'>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-guide-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-drivers-installation-64bit-2" ><a href='https://support.killernetworking.com/download/killer-drivers-installation-64bit-2-1-2907/'>Killer Drivers Installation - 64bit</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.0.2907 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  May 7, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-guide-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-drivers-installation-32bit-2" ><a href='https://support.killernetworking.com/download/killer-drivers-installation-32bit-2-1-2907/'>Killer Drivers Installation - 32bit</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.0.2907 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  May 7, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-guide-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-drivers-installation-64bit-3" ><a href='https://support.killernetworking.com/download/killer-drivers-installation-64bit-2-0-2373/'>Killer Drivers Installation - 64bit</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.0.2373 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  March 21, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-guide-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-drivers-installation-32bit-3" ><a href='https://support.killernetworking.com/download/killer-drivers-installation-32bit-2-0-2373/'>Killer Drivers Installation - 32bit</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.0.2373 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  March 21, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-guide-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-drivers-installation-64bit-4" ><a href='https://support.killernetworking.com/download/killer-drivers-installation-64bit-2-0-2361/'>Killer Drivers Installation - 64bit</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.0.2361 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  February 4, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-guide-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-drivers-installation-32bit-4" ><a href='https://support.killernetworking.com/download/killer-drivers-installation-32bit-2-0-2361/'>Killer Drivers Installation - 32bit</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.0.2361 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  February 4, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-guide-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-drivers-installation-64bit-5" ><a href='https://support.killernetworking.com/download/killer-drivers-installation-64bit-2-0-2332/'>Killer Drivers Installation - 64bit</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.0.2332 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  January 8, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-guide-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-drivers-installation-32bit-5" ><a href='https://support.killernetworking.com/download/killer-drivers-installation-32bit-2-0-2332/'>Killer Drivers Installation - 32bit</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.0.2332 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  January 8, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-guide-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-drivers-installation-64bit-6" ><a href='https://support.killernetworking.com/download/killer-drivers-installation-64bit-2-1-2930/'>Killer Drivers Installation - 64bit</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.1.2930 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  August 2, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-guide-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-drivers-installation-32bit-6" ><a href='https://support.killernetworking.com/download/killer-drivers-installation-32bit-2-1-2930/'>Killer Drivers Installation - 32bit</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.1.2930 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  August 2, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-guide-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="killer-drivers-installation-64bit-7" ><a href='https://support.killernetworking.com/download/killer-drivers-installation-64bit-2-1-3135/'>Killer Drivers Installation - 64bit</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  2.1.3135 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  September 10, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+</div>
+<div style='clear:both'></div>
+<div class='text-center'>
+<ul class='pagination wpdm-pagination pagination-centered text-center'></ul>
+</div>
+<div style='clear:both'></div>
+<div style='clear:both'></div>
+</div>
+</div>
+<h4 id="bluetooth" >Bluetooth</h4>
+<div class='w3eden'>
+<div class=''>
+<div class='row'>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10, Windows 10 1803+, , Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-bluetooth-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="bluetooth-for-killer-1650-1550-windows-10-2" ><a href='https://support.killernetworking.com/download/bluetooth-for-killer-1550-windows-10-21-0-0-4/'>Bluetooth for Killer 1650 & 1550 - Windows 10</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  21.0.0.4 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  March 11, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10, Windows 10 1803+, , Killer Wireless-AC 1550</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-bluetooth-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="bluetooth-for-killer-1550-windows-10" ><a href='https://support.killernetworking.com/download/bluetooth-for-killer-1550-windows-10-20-120-0-3/'>Bluetooth for Killer 1550 - Windows 10</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  20.120.0.3 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  February 4, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10, Windows 10 1803+, , Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-bluetooth-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="bluetooth-for-killer-1535-1525-1435-windows-10-2" ><a href='https://support.killernetworking.com/download/bluetooth-for-killer-1535-1525-1435-windows-10-10-0-0-817/'>Bluetooth for Killer 1535/1525/1435 - Windows 10</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  10.0.0.817 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  February 1, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10, Windows 10 1803+, , Killer Wireless-AC 1550</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-bluetooth-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="bluetooth-for-killer-1550-windows-10-2" ><a href='https://support.killernetworking.com/download/bluetooth-for-killer-1550-windows-10-2/'>Bluetooth for Killer 1550 - Windows 10</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  20.20.0.5 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  February 1, 2018 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 8, Windows 8.1, , Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-bluetooth-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="bluetooth-for-killer-1535-1525-1435-windows-8-1" ><a href='https://support.killernetworking.com/download/bluetooth-for-killer-1535-1525-1435-windows-8-1/'>Bluetooth for Killer 1535/1525/1435 - Windows 8.1</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  3.0.0.648 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  November 14, 2016 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 8, Windows 8.1</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, , Killer Wireless-N 1202</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-bluetooth-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="bluetooth-for-killer-1202-windows-7-and-8-1" ><a href='https://support.killernetworking.com/download/bluetooth-for-killer-1202-windows-7-and-8-1/'>Bluetooth for Killer 1202 - Windows 7 and 8.1</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  8.0.1.370 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  January 1, 2016 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 7, Windows 8, Windows 8.1</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10, Windows 10 1803+, , Killer Wireless-N 1202</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-bluetooth-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="bluetooth-for-killer-1202-windows-10" ><a href='https://support.killernetworking.com/download/bluetooth-for-killer-1202-windows-10/'>Bluetooth for Killer 1202 - Windows 10</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  10.0.1.15 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  January 1, 2016 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10, Windows 10 1803+, , Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-bluetooth-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="bluetooth-for-killer-1650-1550-windows-10-3" ><a href='https://support.killernetworking.com/download/bluetooth-for-killer-1650-1550-windows-10-21-30-0-5/'>Bluetooth for Killer 1650 & 1550 - Windows 10</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  21.30.0.5 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  August 2, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, , Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-bluetooth-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="bluetooth-for-killer-1650-1550-windows-10-4" ><a href='https://support.killernetworking.com/download/bluetooth-for-killer-1650-1550-windows-10-21-40-1-1/'>Bluetooth for Killer 1650 & 1550 - Windows 10</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  21.40.1.1 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  October 24, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10 1803+</span>
+</div>
+</div>
+</div>
+<div class='col-md-12 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10, Windows 10 1803+, , Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535</div>
+<div class='panel panel-default'>
+<div class='panel-heading'>
+<div class='dl-icon'><img class="wpdm_icon" alt="Icon"   src="https://support.killernetworking.com/wp-content/uploads/wpdm-file-type-icons/kb-bluetooth-128.png" /></div>
+<div class='dl-popup'>
+<h4 id="bluetooth-for-killer-1535-1525-1435-windows-10-3" ><a href='https://support.killernetworking.com/download/bluetooth-for-killer-1535-1525-1435-windows-10-10-0-0-825/'>Bluetooth for Killer 1535/1525/1435 - Windows 10</a></h4>
+</div>
+</div>
+<div class='panel-footer'>
+<strong>Version:</strong>  10.0.0.825 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Release Date:</strong>  March 11, 2019 &nbsp;&nbsp;&nbsp;&nbsp; <span class="supported-os [hide_empty:acf_Compatibility_OS]"><br />
+<strong>Supported OS:</strong> Windows 10, Windows 10 1803+</span>
+</div>
+</div>
+</div>
+</div>
+<div style='clear:both'></div>
+<div class='text-center'>
+<ul class='pagination wpdm-pagination pagination-centered text-center'></ul>
+</div>
+<div style='clear:both'></div>
+<div style='clear:both'></div>
+</div>
+</div>
+    				</div>
+    			</div><!-- /ht-toggle-content -->
+    		</div>

@@ -1,0 +1,8 @@
+Host: www.corsair.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Referer: https://www.corsair.com/ww/en/
+Cookie: visid_incap_1019863=uACMPVfLRq+jUwde+YT7y31aPV4AAAAAQUIPAAAAAAA1z5mVad2oIn2vBhs6tVQZ; _gcl_au=1.1.1479660165.1581079169; zarget_visitor_info=%7B%22KTUTSQ%22%3A854511%2C%22BPXWRU%5B%22%3A1196043%7D; apay-session-set=true; gig_bootstrap_3__xo1IhJq53iFwB6NpRs-RLC-DhjLN_Xb69-ObPEBTdSE6d8kfAjgGXVq_8veujwv=login_ver3; __utma=25769007.2098636308.1581079177.1581433742.1581687105.5; __utmz=25769007.1581433742.4.4.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); corsair-us-cart=a69f206a-a2bb-4c75-b885-1340378bb3af; zarget_user_id=1581090004075r0.2397389934941475; corsair-ww-cart=42bdfd9f-713e-443c-91a2-dd91c0cbd59f; Zip_Code=; Country_Code=ID; nlbi_1019863=3mtLXyztJSwVTK/KXuGjbgAAAAD09dniw7BvhvJfW3pZKWjf; incap_ses_1114_1019863=uYQMAbmerzFzC2pnorl1DzmhRl4AAAAAT5GMwXNNUOlHzTfcfoc/IA==; JSESSIONID=1526E5470AB7A8CD3C56EB132A2D92BB.app12; idauto-lang=en; Pref_Country=ww; Pref_Lang=en; IR_gbd=corsair.com; IR_8513=1581687417924%7C0%7C1581687103439%7C%7C; __btr_id=17dfec9c-fa59-4066-a11f-b48798ac3a78; __utmb=25769007.12.10.1581687105; __utmc=25769007; __utmt=1
+Upgrade-Insecure-Requests: 1

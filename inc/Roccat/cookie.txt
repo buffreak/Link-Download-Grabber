@@ -1,0 +1,8 @@
+Host: en.roccat.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Referer: https://en.roccat.org/Support
+Cookie: _ga=GA1.2.1880233199.1578669658; PHPSESSID=grft5q0tb797ubu1pjm28aui44; _gid=GA1.2.1181305794.1581867306; Products-User-Reviews-Reload-Position-212=null; _dc_gtm_UA-2549060-17=1; _gat_UA-2549060-17=1

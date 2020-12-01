@@ -1,0 +1,85 @@
+<div class="hts-toggle  package-toggle dl-cat-toggle hts-toggle--active"  >
+    			<div class="hts-toggle__title">Killer Suite</div>
+    			<div class="hts-toggle__content">
+    				<div class="hts-toggle__contentwrap">
+    					<div class='w3eden'>
+<div class=''>
+<div class='row'>
+<div class='col-md-4 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 7, Windows 8, Windows 8.1, Windows 10, Killer E2200, Killer E2400, Killer E2500, Killer Wireless-N 1202, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550</div>
+<div class="list-group wpdm-lt-card dl-card" style="margin: 0 0 0 0">
+<div class="list-group-item killer-group-item">
+            <a class="" href="https://support.killernetworking.com/download/killer-control-center-64-bit-for-windows-7-8-1-older-windows-10-versions/"></p>
+<div class='text-center package-preview'><img class='wpdm-thumb wpdm-thumb-500x250 wpdm-thumb-425' src='https://support.killernetworking.com/wp-content/uploads/wpdm-cache/Package-KCC-2-580x290-500x250.png' alt='Killer Control Center 64-bit - Windows 7 & 8.1' /></div>
+<p></a>
+        </div>
+<div class="list-group-item">
+<h4 style="padding: 0px;margin:0px;min-height: 80px;" id="killer-control-center-64-bit-windows-7-8-1" ><a href='https://support.killernetworking.com/download/killer-control-center-64-bit-for-windows-7-8-1-older-windows-10-versions/'>Killer Control Center 64-bit - Windows 7 & 8.1</a></h4>
+</p></div>
+<div class="list-group-item">
+            <span class="badge">1.5.1859</span> Version:
+        </div>
+<div class="list-group-item">
+            <span class="badge">April 4, 2018</span> Date:
+        </div>
+<div class="list-group-item">
+            <span class="badge">119 MB</span> File Size:
+        </div>
+</p></div>
+</div>
+<div class='col-md-4 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2600, Killer E3000, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class="list-group wpdm-lt-card dl-card" style="margin: 0 0 0 0">
+<div class="list-group-item killer-group-item">
+            <a class="" href="https://support.killernetworking.com/download/killer-control-center-beta/"></p>
+<div class='text-center package-preview'><img class='wpdm-thumb wpdm-thumb-500x250 wpdm-thumb-439' src='https://support.killernetworking.com/wp-content/uploads/wpdm-cache/Package-KCC-2-BETA-580x290-500x250.png' alt='Killer Software Package BETA - Windows 10 1803+' /></div>
+<p></a>
+        </div>
+<div class="list-group-item">
+<h4 style="padding: 0px;margin:0px;min-height: 80px;" id="killer-software-package-beta-windows-10-1803" ><a href='https://support.killernetworking.com/download/killer-control-center-beta/'>Killer Software Package BETA - Windows 10 1803+</a></h4>
+</p></div>
+<div class="list-group-item">
+            <span class="badge">2.1.1384</span> Version:
+        </div>
+<div class="list-group-item">
+            <span class="badge">December 3, 2019</span> Date:
+        </div>
+<div class="list-group-item">
+            <span class="badge">65.1 MB</span> File Size:
+        </div>
+</p></div>
+</div>
+<div class='col-md-4 col-sm-6 col-xs-12'>
+<div class='package-filter' style='display: none;'>Windows 10 1803+, Killer E2200, Killer E2400, Killer E2500, Killer E2500v2, Killer E2600, Killer E3000, Killer Wireless-AC 1435, Killer Wireless-AC 1525, Killer Wireless-AC 1535, Killer Wireless-AC 1550, Killer Wi-Fi 6 AX1650</div>
+<div class="list-group wpdm-lt-card dl-card" style="margin: 0 0 0 0">
+<div class="list-group-item killer-group-item">
+            <a class="" href="https://support.killernetworking.com/download/killer-software-package-windows-10-1803/"></p>
+<div class='text-center package-preview'><img class='wpdm-thumb wpdm-thumb-500x250 wpdm-thumb-1945' src='https://support.killernetworking.com/wp-content/uploads/wpdm-cache/Package-KCC-2-580x290-500x250.png' alt='Killer Software Package - Windows 10 1803+' /></div>
+<p></a>
+        </div>
+<div class="list-group-item">
+<h4 style="padding: 0px;margin:0px;min-height: 80px;" id="killer-software-package-windows-10-1803" ><a href='https://support.killernetworking.com/download/killer-software-package-windows-10-1803/'>Killer Software Package - Windows 10 1803+</a></h4>
+</p></div>
+<div class="list-group-item">
+            <span class="badge">2.2.1403</span> Version:
+        </div>
+<div class="list-group-item">
+            <span class="badge">January 5, 2020</span> Date:
+        </div>
+<div class="list-group-item">
+            <span class="badge">65.6 MB</span> File Size:
+        </div>
+</p></div>
+</div>
+</div>
+<div style='clear:both'></div>
+<div class='text-center'>
+<ul class='pagination wpdm-pagination pagination-centered text-center'></ul>
+</div>
+<div style='clear:both'></div>
+<div style='clear:both'></div>
+</div>
+</div>
+    				</div>
+    			</div><!-- /ht-toggle-content -->
+    		</div>

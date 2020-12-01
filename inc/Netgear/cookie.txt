@@ -1,0 +1,36 @@
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+accept: application/json, text/javascript, */*; q=0.01
+accept-language: en-US,en;q=0.5
+x-requested-with: XMLHttpRequest
+referer: https://www.netgear.com/support/
+cookie: _ngSupportStartTime=%7B%22date%22%3A%222020-02-15T07%3A14%3A14.244Z%22%2C%22surveySeen%22%3Afalse%2C%22startURL%22%3A%22https%253A%252F%252Fwww.netgear.com%252Fsupport%252Fproduct%252Fr7000.aspx%22%2C%22startDate%22%3A%222020-02-15T07%3A14%3A14.244Z%22%7D
+cookie: _ga=GA1.2.561503076.1581750856
+cookie: _vwo_uuid_v2=D555E0EB52D90298C3A02D242DB9AA8CB|c30d386f4875edb7468f1fdd11d99c64
+cookie: _vis_opt_s=4%7C
+cookie: _vwo_uuid=D555E0EB52D90298C3A02D242DB9AA8CB
+cookie: _vwo_ds=3%241581750858%3A60.76922029%3A%3A
+cookie: oc___cfduid=d7bba820b1188d7acbf7b1bf4ff7e9d651582638686
+cookie: oc_dwanonymous_6f248c284c35e3147d0c22d9f042bb03=bcUi5jdRoB1TaYgVx8RvrOZgzd
+cookie: _gcl_au=1.1.1663538114.1581770292
+cookie: _fbp=fb.1.1581770305805.1841375492
+cookie: _vis_opt_exp_726_combi=3
+cookie: _vis_opt_exp_741_combi=4
+cookie: BVBRANDID=c0c1cb54-cd75-408b-968d-eecc0f029714
+cookie: _vis_opt_exp_540_combi=2
+cookie: _vis_opt_exp_721_combi=1
+cookie: ASP.NET_SessionId=uygclfprykvgvdup2h3sgx4g
+cookie: AWSELB=0FB93F51161A6B97C18B21DA30A86233ABFDB6508C009CC892CAC192CE76E1D9D3F969C26270204EBB2079B9BE749AE70A1479D3612B0E6194F928C9D0C120C9037683E84C
+cookie: AWSELBCORS=0FB93F51161A6B97C18B21DA30A86233ABFDB6508C009CC892CAC192CE76E1D9D3F969C26270204EBB2079B9BE749AE70A1479D3612B0E6194F928C9D0C120C9037683E84C
+cookie: oc_dwsecuretoken_6f248c284c35e3147d0c22d9f042bb03=zF99fQJiUe1byp7Ly9P-JBOqY-aPFryPww%3d%3d
+cookie: oc_dwsid=l-d0zCkF0lKUqjwgrZG9KT9tg6F2J4hd9jbNMMuJa-68u9aOPw7tMJ01gkhU9lIthGA7-n0QyEisTB8pYTil_g%3d%3d
+cookie: oc___cq_dnt=1
+cookie: oc_dw_dnt=1
+cookie: _gid=GA1.2.48847600.1582638691
+cookie: _vis_opt_test_cookie=1
+cookie: _vwo_sn=887836%3A2
+cookie: hide_opIn_modal=1
+cookie: _ngActiveNavigation=1
+cookie: _ngFBLastActivity=https%253A%252F%252Fwww.netgear.com%252Fsupport%252F
+cookie: _gat_UA-7254858-23=1
+cache-control: max-age=0
+te: trailers

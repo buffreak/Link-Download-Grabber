@@ -1,0 +1,10 @@
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+accept-language: en-US,en;q=0.5
+cookie: _ga=GA1.2.1018901518.1581944781
+cookie: _gid=GA1.2.429164125.1582117658
+cookie: __cfduid=d6b69926a332aba8046970d2aab3c75d31582117660
+upgrade-insecure-requests: 1
+if-modified-since: Wed, 19 Feb 2020 13:35:20 GMT
+cache-control: max-age=0
+te: trailers

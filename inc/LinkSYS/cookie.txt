@@ -1,0 +1,7 @@
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Referer: https://www.linksys.com/us/support/
+Cookie: JSESSIONID=125F9992AD9B6EDF8D53030AA38BBC85; bknRecentlyViewedSupport=148385|156300|148447|159335|148558; liveagent_oref=https://www.google.com/; liveagent_vc=5; __atuvc=11%7C7; __atssc=google%3B4; _vwo_uuid_v2=D754C0212E05740563A3050658832C95A|7d5a01cc5660b26e9191c597caaac5f1; _gcl_au=1.1.2125623662.1581331576; bnrAlrt-support=opened; liveagent_ptid=ec328755-fe85-48b8-a8bc-96765ea08136; BVBRANDID=e6ec73e0-1c54-4481-888a-fefcf1e74387; _ga=GA1.2.723008870.1581331577; geo_country_code=ID; geo_ip=180.241.47.79; _gid=GA1.2.2065989843.1581438786; JSESSIONID=125F9992AD9B6EDF8D53030AA38BBC85; BIGipServerlinksys_hybris_v6_pool_https=925370890.47873.0000; BVBRANDSID=859d250d-5de8-4177-9fa6-cf006aa5fdfd; IRMS_la3799=1581518120587; wisepops=%7B%22csd%22%3A1%2C%22popups%22%3A%7B%7D%2C%22sub%22%3A0%2C%22ucrn%22%3A27%2C%22cid%22%3A%2243467%22%2C%22v%22%3A4%7D; wisepops_session=%7B%22arrivalOnSite%22%3A%222020-02-12T14%3A35%3A13.594Z%22%2C%22mtime%22%3A%222020-02-12T14%3A35%3A15.782Z%22%2C%22pageviews%22%3A1%2C%22popups%22%3A%7B%7D%2C%22src%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%2C%22utm%22%3A%7B%7D%7D; wisepops_visits=%5B%222020-02-12T14%3A35%3A13.594Z%22%5D; _gat_UA-33033653-6=1; liveagent_sid=d755643a-b8fa-4671-bbd0-18a58c745bf3; _gat_UA-33033653-1=1; _gali=searchbox
